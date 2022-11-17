@@ -83,8 +83,8 @@
     "framework-espidf": {
       "type": "framework",
       "optional": true,
-      "owner": "platformio",
-      "version": "release/v5.0"
+      "owner": "osvaldo",
+      "version": "https://github.com/OsvaldoTCF/esp-idf"
     },
     "tool-esptoolpy": {
       "type": "uploader",
