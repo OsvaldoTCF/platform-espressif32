@@ -84,7 +84,7 @@
       "type": "framework",
       "optional": true,
       "owner": "platformio",
-      "version": "~5.0"
+      "version": "release/v5.0"
     },
     "tool-esptoolpy": {
       "type": "uploader",
